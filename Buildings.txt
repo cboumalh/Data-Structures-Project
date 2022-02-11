@@ -1,0 +1,12 @@
+buildings:
+Bond Hall
+DeBartolo Hall
+Duncan Student Center
+Fitzpatrick Hall of Engineering
+Hesburgh Library
+Jordan Hall of Science
+Main Building
+Nieuwland Science Hall
+North Dining Hall
+O'Shaughnessy Hall
+South Dining Hall
