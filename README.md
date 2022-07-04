@@ -10,3 +10,6 @@ To run the program:
 2) run 'make'
 3) run './exe/Project Buildings.txt Paths.txt'
 4) enter number that represents origin, then the number that represents the destination
+
+![image](https://user-images.githubusercontent.com/84485659/177073309-41a37ff7-6396-446e-a87b-84fc751f7a3a.png)
+
